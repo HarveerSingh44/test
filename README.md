@@ -1,2 +1,2 @@
 # test
-CIAO 4
+CIAO
